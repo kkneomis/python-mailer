@@ -15,10 +15,10 @@ SMTP_HOST = 'localhost'
 SMTP_PORT = '25'
 
 # the address and name the email comes from
-FROM_NAME = 'Company Name'
-FROM_EMAIL = 'company@example.com'
+FROM_NAME = 'Howard BGS'
+FROM_EMAIL = 'howardbgs@gmail.com'
 
 # test recipients list
 TEST_RECIPIENTS = [
-    {'name': 'Name', 'email': 'someone@example.com'},
+    {'name': 'Name', 'email': 'skakpovi@gmail.com'},
 ]
